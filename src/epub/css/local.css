@@ -5,6 +5,14 @@ section[epub|type~="z3998:scene"]{
 	margin-top: 20vh;
 }
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
