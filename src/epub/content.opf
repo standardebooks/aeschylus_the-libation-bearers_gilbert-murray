@@ -38,9 +38,10 @@
 		<meta id="collection-1" property="belongs-to-collection">The Orestia</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Ordered by a god, a man returns to avenge his father’s murder by killing his mother and her lover.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description&lt;/p&gt;
+			&lt;p&gt;In &lt;a href="https://standardebooks.org/ebooks/aeschylus"&gt;Aeschylus’&lt;/a&gt; &lt;i&gt;The Libation Bearers&lt;/i&gt;, the second play of his Oresteia trilogy, the story continues the cycle of vengeance that began with the murder of Agamemnon. The play opens with Orestes, the son of Agamemnon and Clytemnestra, returning to Argos to avenge his father’s death. Commanded by Apollo, Orestes and his sister Electra plot to kill their mother Clytemnestra and her lover Aegisthus, who together murdered Agamemnon.&lt;/p&gt;
+			&lt;p&gt;Aeschylus was a pioneering ancient Greek playwright, often referred to as the father of tragedy. He is one of the three great tragedians whose works have survived from antiquity, alongside Sophocles and Euripides. Aeschylus is known for his contributions to the development of Greek drama.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20120840</dc:source>
