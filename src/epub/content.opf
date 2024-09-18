@@ -76,7 +76,7 @@
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders Canada Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">Emma, Sweeney</dc:contributor>
+		<dc:contributor id="producer-1">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Sweeney, Emma</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
